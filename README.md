@@ -1,7 +1,7 @@
 <b>Citra Hasna Andriawan</b><br>
 🌱 Learning Javascript And Rust
 
-<img src="https://i.ibb.co.com/k6s5hFWm/my.png" alt="my" border="0"></img>
+<img src="https://i.ibb.co.com/k6s5hFWm/my.png" alt="my" border="0" width="300" height="300"></img>
 <!--
 **cytrha/cytrha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
