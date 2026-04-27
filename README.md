@@ -5,5 +5,4 @@
 <hr>
 
 <h2>About Me</h2>
-
   <p>Hello, Im Rosyid Ifni Andriansyah or you can call me Ocid or Andrian. Im a student at <b>SMK Telkom Banjarbaru</b> in <b>South Borneo/Kalimantan</b>. Im interested in web, app, and game development. Currently, Im focusing on mobile app development using Flutter and Dart, UI components using React and Astro, and cybersecurity.</p>
