@@ -1,8 +1,4 @@
-📛 Ocid / <a href="https://ociddaja2.vercel.app/"><i>Rosyid</i></a><br>
-💠 Indonesia, South Borneo.<br>
-💙 <b>Stay Alive</b> [<i>今すぐコーディングを始めましょう</i>]
+<b>Citra Hasna Andriawan</b><br>
+🌱 Learning Javascript And Rust
 
-<hr>
-
-<h2>About Me</h2>
-  <p>Hello, Im Rosyid Ifni Andriansyah or you can call me Ocid or Andrian. Im a student at <b>SMK Telkom Banjarbaru</b> in <b>South Borneo/Kalimantan</b>. Im interested in web, app, and game development. Currently, Im focusing on mobile app development using Flutter and Dart, UI components using React and Astro, and cybersecurity.</p>
+<img src="https://i.ibb.co.com/k6s5hFWm/my.png" alt="my" border="0" width="300" height="300"></img>
